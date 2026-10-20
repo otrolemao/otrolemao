@@ -1,13 +1,9 @@
-<!-- CONTENEDOR PRINCIPAL (Banner + Info lado a lado) -->
-<div align="center" style="width: 100%; max-width: 950px; margin: 0 auto;">
-
-  <!-- TABLA INVISIBLE PARA PONER BANNER E INFO LADO A LADO -->
-  <table align="center" border="0" cellpadding="0" cellspacing="0" width="100%">
-    <tr>
-      <!-- COLUMNA IZQUIERDA: EL BANNER ANCHO (Jinete) -->
-      <td valign="top" width="60%">
-        <div align="left">
-          <pre style="font-family: monospace; font-size: 7px; line-height: 1; color: #D4A373; margin: 0; display: inline-block;">
+<!-- BANNER SUPERIOR CON ARTES ASIMÉTRICOS (SIN TABLAS) -->
+<div align="center" style="position: relative; width: 100%; max-width: 800px; margin: 0 auto;">
+  
+  <!-- Arte Principal (Izquierda) -->
+  <div align="left">
+    <pre style="font-family: monospace; font-size: 8px; line-height: 1; color: #D4A373; margin: 0; display: inline-block;">
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢠⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
@@ -23,75 +19,46 @@
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠃⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-          </pre>
-        </div>
-        
-        <hr style="border: 1px solid #D4A373; width: 80%; margin: 15px auto;">
-        
-        <h2>WANTED: YOUR_NAME</h2>
-        <p><i>The Fastest Coder in the West</i></p>
-      </td>
+    </pre>
+  </div>
 
-      <!-- COLUMNA DERECHA: EL CUADRO INFORMATIVO (Cactus + Datos) -->
-      <td valign="top" width="40%">
-        <table border="1" cellpadding="10" cellspacing="0" style="border-collapse: collapse; border-color: #30363d; width: 100%; background-color: #0d1117;">
-          <tr>
-            <td valign="top">
-              
-              <!-- Cactus (más pequeño para que quepa) -->
-              <div align="center">
-                <pre style="font-family: monospace; font-size: 6px; line-height: 1; color: #D4A373; margin: 0; text-align: left; display: inline-block;">
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠠⠴⢶⣾⣷⣦⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣻⣿⣿⣷⣦⣄⡀⠀⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢿⣿⣿⣿⣿⣿⣿⣷⣦⣄⡀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠻⣿⣿⣿⣿⣿⣿⣿⣿⣿⣖⠤⡀⠀
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣽⣿⠋⠉⠉⠉⠉⠉⠉⠉⠀⠀
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣾⡝⠏⠟⣇⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢰⡇⢿⢸⢸⢹⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⡇⢺⢸⢸⢸⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⣿⢘⠘⠈⢺⠀⠀⣤⣶⣦⡄⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⠀⠀⢀⣠⡴⠖⢺⣯⢸⢸⠚⢸⠛⢻⣿⠸⣩⣇⠀⠀⠀
-⠀⠀⠀⠀⠀⢀⣠⠞⠋⣁⡀⠀⢸⡯⠜⢸⠀⢸⠁⢸⣝⠸⣺⡟⠳⣤⡀
-⠀⠀⠀⠀⣴⠟⠁⠀⣸⡟⣿⡄⢸⢰⢸⢸⠀⢸⠀⢸⠘⡇⣿⡇⠀⠈⠻⣦
-⠀⠀⢀⡞⠁⠀⠀⠀⢿⡇⣿⡇⢸⢸⢘⢸⠀⢸⠀⣾⢧⢡⢽⠇⠀⠀⠀⠈
-⠀⢠⡟⠀⠀⠀⠀⠀⢸⢷⡿⡇⣼⢸⢸⢸⠀⢿⣾⡟⡘⡴⣾⠀⠀⠀⠀⠀
-⠀⡞⠀⠀⠀⠀⠀⠀⢸⣟⡆⡇⣿⢨⢸⠀⢠⡿⠊⣔⢦⣑⡿⠀⠀⠀⠀⠀
-⢸⠇⠀⠀⠀⠀⠀⠀⢸⡾⢹⣧⣿⢸⢸⠰⠸⣄⣫⣊⣣⠿⠁⠀⠀⠀⠀⠀
-⢸⠀⠀⠀⠀⠀⠀⠀⢸⡇⡜⢻⣿⢘⠸⠀⠀⣿⠍⠉⠁⠀⠀⠀⠀⠀⠀⠀
-⢸⠀⠀⠀⠀⠀⠀⠀⢸⣤⢣⠣⣿⢸⠘⠀⠀⣿⡄⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⢸⡄⠀⠀⠀⠀⠀⠀⠀⢷⣧⡳⣿⠸⢰⠐⢀⢸⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⠀⣧⠀⠀⠀⠀⠀⠀⠀⠀⠙⠿⣿⢴⢸⢠⠀⢸⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⠀⠘⣧⠀⠀⠀⠀⠀⠀⠀⠀⠀⣧⢘⠸⣈⠁⢸⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠘⢧⡀⠀⠀⠀⠀⠀⠀⠀⣧⢈⢈⢈⠀⢸⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠈⠳⣄⠀⠀⠀⠀⠀⢠⣿⡘⠈⡸⠀⢸⣧⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⠀⠠⣤⡶⠐⠿⠟⠛⠂⠗⠳⠘⠟⠂⠾⠖⠲⠖⠒⠀⠀⠀
-                </pre>
-              </div>
-              
-              <!-- Datos (Neofetch) -->
-              <div style="text-align: left; font-size: 13px; margin-top: 10px;">
-                <p><code><b>cowboy@saloon</b></code></p>
-                <p>------------------</p>
-                <p><b>🤠 Name:</b> YOUR_NAME</p>
-                <p><b>📍 Location:</b> YOUR_CITY</p>
-                <p><b>💼 Job:</b> YOUR_JOB</p>
-                <p><b>🛠️ Weapons:</b> Python, JS, React</p>
-                <p><b>🌱 Learning:</b> Rust, Go, Cloud</p>
-                <p><b>🎯 Focus:</b> Open-source stuff</p>
-                <p><b>🎮 Hobbies:</b> Coding, Gaming</p>
-                <p><b>📫 Contact:</b> YOUR_EMAIL</p>
-                <p><b>🌐 Website:</b> YOUR_WEBSITE</p>
-                <p>------------------</p>
-                <p><b>🐎 Status:</b> <span style="color: #39d353;">Running</span></p>
-                <p><b>⏳ Uptime:</b> X years</p>
-              </div>
-
-            </td>
-          </tr>
-        </table>
-      </td>
-    </tr>
-  </table>
+  <!-- Botas (Esquina Derecha) - Flotando a la derecha y más abajo -->
+  <div align="right" style="margin-top: -50px;">
+    <pre style="font-family: monospace; font-size: 5px; line-height: 1; color: #D4A373; margin: 0; display: inline-block;">
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣴⡾⠛⠛⢛⣷⣶⣶⣶⣶⣤⣤⣀⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣼⣿⠁⠀⠀⢻⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣦⣄⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢰⣿⣿⡆⠀⠀⠀⢻⣿⣿⣿⣿⠻⣿⣿⠿⣿⣿⣿⣿⣿⣷⣤⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢠⣿⣿⣿⡷⠀⠀⠀⣸⣿⣿⣿⠏⠀⢹⣿⠀⣷⣦⣌⠉⠛⠿⣿⣿⡄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⢀⣀⣀⣀⣀⣀⣀⠀⠀⠀⠀⣾⣿⣿⣿⠃⠀⠀⢠⣿⣿⣿⠁⠀⠀⠼⠁⠀⢹⣿⣿⣷⣄⣀⡸⣿⡧⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⣾⣿⣿⣿⣿⣿⣻⡿⠿⣿⣷⣾⣿⣿⣿⡿⠀⠀⠀⢺⣿⣿⣿⡀⠀⠀⠀⠀⠀⣸⣿⣿⣿⣿⣧⡀⢻⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠈⠻⣿⣿⣿⣿⣿⣿⣷⣄⡀⠹⣿⣿⡿⠃⠀⠀⠀⠈⠻⣿⣿⣿⣦⡀⠀⠀⠀⣿⣿⣿⣿⣿⣿⣧⢸⠃⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠙⠻⣿⣿⣿⣿⠿⠿⣷⣤⡀⠀⠀⠀⠀⠀⠀⠀⠈⠻⣿⣿⣿⣦⠀⢸⣿⣿⣿⣿⣿⣿⠇⡾⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠙⠻⣿⣦⣄⠀⠉⠛⢷⣄⡠⢤⣀⠀⠀⠀⠀⠈⢿⣿⣿⣷⠘⣿⣿⣿⣿⣿⣿⠀⣳⢤⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠉⠛⣿⣶⣤⣀⠈⠛⢦⡀⠙⠲⢤⣀⣀⠈⣿⣿⣿⣿⣿⣿⣿⣿⣿⡿⠀⣿⣷⣮⣻⣦⣄⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⣧⡽⠛⠿⣦⣤⡈⠳⢤⣄⣀⠉⠛⠻⠿⣿⣿⣿⣿⣿⣿⣿⣃⣼⣿⣿⣿⣿⣷⣝⢷⣄⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⣯⣤⠄⠀⡏⠉⢿⣿⣶⣤⣙⠻⣶⣶⣤⣄⣀⣉⠉⠉⠉⠉⣀⣾⣿⣿⣿⣿⣿⣿⣦⠻⣧⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⣿⣤⠤⠀⡇⠠⢤⣝⣿⣿⣿⣿⣷⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣇⠸⣇⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⡟⠁⠀⢠⡇⠀⠀⠈⢻⣿⣿⣿⣿⠏⡽⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠀⡿⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣿⠦⠀⢸⠁⠀⠰⣚⣿⣿⣿⣿⣿⠤⢾⣿⣿⣿⣿⣷⣯⣝⠻⠿⣿⣿⣿⣿⣿⣿⣿⠇⣰⠇⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣿⣆⠀⢸⠀⠀⢚⣿⣿⣿⣿⡿⣿⡗⣫⣿⣿⡿⡿⡿⣇⠈⠙⠒⠦⠤⣉⣉⣉⣭⣴⠾⠋⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣿⣿⠀⢸⠀⠐⢉⣴⣿⣿⢿⠧⢛⣿⣿⠟⡿⠁⢁⣴⣿⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣿⣿⣆⣼⠀⢠⣿⡿⠋⠏⢈⣴⣿⣟⠁⠀⣠⣾⣿⣿⣿⡄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣿⣿⣿⣿⠀⠘⠋⠀⢀⣴⣿⣿⣿⣿⣤⣾⣿⣿⡇⠻⣿⣷⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣿⣿⣿⣿⣇⣀⣠⣶⣿⣿⣿⠋⠻⣿⣿⣿⡿⠋⠀⠀⠘⢿⣷⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢰⣿⣿⣿⣿⠿⢿⣿⣿⡿⠟⠃⠀⠀⠙⣿⣧⡀⠀⠀⠀⠀⠈⢿⣿⣦⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⣿⣿⣿⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠘⣿⣿⣦⡀⠀⠀⠀⢸⣿⣿⣿⣷⣦⣀⡀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠸⣿⣿⣿⣷⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⣿⣿⣿⣶⣆⣀⠘⠁⠒⢿⣿⣿⣿⣿⣶⣦⣤⣤⣤⣤⣤⡀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢻⡟⠛⠿⢦⣀⡀⠀⠀⠀⠀⠀⠀⠀⠀⠘⠁⠶⣿⣿⣿⣿⣷⣦⣤⣄⣬⣽⣿⣿⠿⣿⣿⣿⣿⣿⣿⣿
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠹⣦⠀⠀⠈⣿⣿⣶⣄⡀⠀⠀⠀⠀⠀⠀⠀⠀⠉⠛⠻⠿⣿⣿⣿⣿⣿⣿⣿⣧⣀⣠⣤⣴⣿⡿⠛
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠘⠷⣶⣦⣿⡇⠙⠿⣿⣦⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣀⣩⣽⣿⣿⠿⠷⠟⠛⠉⠁⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠉⠛⠀⠀⠈⠙⠻⠿⣷⣶⣶⣄⣀⣀⣒⣒⣒⣉⣭⡵⠞⠛⠉⠀⠀⠀⠀⠀⠀⠀⠀⠀
+    </pre>
+  </div>
+  
+  <hr style="border: 1px solid #D4A373; width: 80%; margin: 15px auto;">
+  
+  <h2>WANTED: YOUR_NAME</h2>
+  <p><i>The Fastest Coder in the West</i></p>
 </div>
 
 <br/>
@@ -100,6 +67,62 @@
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com/?font=Courier+New&weight=700&size=24&pause=1000&color=D4A373&center=true&vCenter=true&width=600&lines=%3E_%20Booting%20up%20the%20saloon...;%3E_%20Saddling%20the%20horses...;%3E_%20Compiling%20YOUR_LANGUAGE...;%3E_%20Ready%20for%20a%20new%20adventure." alt="Typing SVG" />
 </div>
+
+<br/>
+
+<!-- DISEÑO DE DOS COLUMNAS (CACTUS ASCII + DATOS) -->
+<table align="center" border="0" cellpadding="0" cellspacing="0">
+  <tr>
+    <td valign="top" width="40%">
+      <!-- CACTUS EN ASCII -->
+      <pre style="font-family: monospace; font-size: 10px; line-height: 1.1; color: #D4A373;">
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠠⠴⢶⣾⣷⣦⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣻⣿⣿⣷⣦⣄⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢿⣿⣿⣿⣿⣿⣿⣷⣦⣄⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠻⣿⣿⣿⣿⣿⣿⣿⣿⣿⣖⠤⡀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣽⣿⠋⠉⠉⠉⠉⠉⠉⠉⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣾⡝⠏⠟⣇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢰⡇⢿⢸⢸⢹⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⡇⢺⢸⢸⢸⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⣿⢘⠘⠈⢺⠀⠀⣤⣶⣦⡄⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⢀⣠⡴⠖⢺⣯⢸⢸⠚⢸⠛⢻⣿⠸⣩⣇⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⢀⣠⠞⠋⣁⡀⠀⢸⡯⠜⢸⠀⢸⠁⢸⣝⠸⣺⡟⠳⣤⡀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⣴⠟⠁⠀⣸⡟⣿⡄⢸⢰⢸⢸⠀⢸⠀⢸⠘⡇⣿⡇⠀⠈⠻⣦⡀⠀⠀⠀
+⠀⠀⢀⡞⠁⠀⠀⠀⢿⡇⣿⡇⢸⢸⢘⢸⠀⢸⠀⣾⢧⢡⢽⠇⠀⠀⠀⠈⢳⡄⠀⠀
+⠀⢠⡟⠀⠀⠀⠀⠀⢸⢷⡿⡇⣼⢸⢸⢸⠀⢿⣾⡟⡘⡴⣾⠀⠀⠀⠀⠀⠀⢻⡄⠀
+⠀⡞⠀⠀⠀⠀⠀⠀⢸⣟⡆⡇⣿⢨⢸⠀⢠⡿⠊⣔⢦⣑⡿⠀⠀⠀⠀⠀⠀⠀⢻⠀
+⢸⠇⠀⠀⠀⠀⠀⠀⢸⡾⢹⣧⣿⢸⢸⠰⠸⣄⣫⣊⣣⠿⠁⠀⠀⠀⠀⠀⠀⠀⠈⡇
+⢸⠀⠀⠀⠀⠀⠀⠀⢸⡇⡜⢻⣿⢘⠸⠀⠀⣿⠍⠉⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣧
+⢸⠀⠀⠀⠀⠀⠀⠀⢸⣤⢣⠣⣿⢸⠘⠀⠀⣿⡄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡟
+⢸⡄⠀⠀⠀⠀⠀⠀⠀⢷⣧⡳⣿⠸⢰⠐⢀⢸⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⡇
+⠀⣧⠀⠀⠀⠀⠀⠀⠀⠀⠙⠿⣿⢴⢸⢠⠀⢸⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣼⠁
+⠀⠘⣧⠀⠀⠀⠀⠀⠀⠀⠀⠀⣧⢘⠸⣈⠁⢸⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣸⠇⠀
+⠀⠀⠘⢧⡀⠀⠀⠀⠀⠀⠀⠀⣧⢈⢈⢈⠀⢸⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⣼⠃⠀⠀
+⠀⠀⠀⠈⠳⣄⠀⠀⠀⠀⠀⢠⣿⡘⠈⡸⠀⢸⣧⠀⠀⠀⠀⠀⠀⠀⣠⠞⠁⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠠⣤⡶⠐⠿⠟⠛⠂⠗⠳⠘⠟⠂⠾⠖⠲⠖⠒⠀⠀⠀⠀⠀⠀⠀
+      </pre>
+      <div align="center">
+        <i>"YOUR_TAGLINE_AQUI"</i>
+      </div>
+    </td>
+    <td valign="top" width="60%">
+      <!-- AQUÍ VAN TUS DATOS (Estilo Neofetch) -->
+      <p><code><b>cowboy@saloon</b></code> -------------------</p>
+      <p><b>🤠 Name:</b> YOUR_NAME</p>
+      <p><b>📍 Location:</b> YOUR_CITY, YOUR_COUNTRY</p>
+      <p><b>💼 Job:</b> YOUR_JOB (e.g., Full Stack Developer)</p>
+      <p><b>🛠️ Weapons:</b> Python, JavaScript, React, Node.js</p>
+      <p><b>🌱 Learning:</b> Rust, Go, Cloud Architecture</p>
+      <p><b>🎯 Focus:</b> Building awesome open-source stuff</p>
+      <p><b>🎮 Hobbies:</b> Coding, Gaming, Reading, Music</p>
+      <p><b>📫 Contact:</b> YOUR_EMAIL</p>
+      <p><b>🌐 Website:</b> YOUR_WEBSITE</p>
+      <p>----------------------------------------</p>
+      <p><b>🐎 Status:</b> <span style="color: #39d353;">Running (stable)</span></p>
+      <p><b>⏳ Uptime:</b> X years, Y months</p>
+    </td>
+  </tr>
+</table>
 
 <br/>
 
