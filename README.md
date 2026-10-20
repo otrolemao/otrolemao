@@ -12,25 +12,36 @@
 
 <br/>
 
-<!-- DISEÑO DE DOS COLUMNAS (FOTO ASCII + DATOS) -->
+<!-- DISEÑO DE DOS COLUMNAS (CACTUS ASCII + DATOS) -->
 <table align="center" border="0" cellpadding="0" cellspacing="0">
   <tr>
     <td valign="top" width="40%">
-      <!-- AQUÍ VA TU FOTO EN ASCII (Reemplaza esto por tu arte) -->
-      <pre>
-      .-""-.
-     /      \
-    |  O  O  |
-    |    ^   |
-    |   ---  |
-     \______/
-      |    |
-      |____|
-     /|    |\
-    / |    | \
-      |    |
-     _|    |_
-    (__)  (__)
+      <!-- CACTUS EN ASCII -->
+      <pre style="font-family: monospace; font-size: 10px; line-height: 1.1; color: #D4A373;">
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠠⠴⢶⣾⣷⣦⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣻⣿⣿⣷⣦⣄⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢿⣿⣿⣿⣿⣿⣿⣷⣦⣄⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠻⣿⣿⣿⣿⣿⣿⣿⣿⣿⣖⠤⡀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣽⣿⠋⠉⠉⠉⠉⠉⠉⠉⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣾⡝⠏⠟⣇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢰⡇⢿⢸⢸⢹⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⡇⢺⢸⢸⢸⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⣿⢘⠘⠈⢺⠀⠀⣤⣶⣦⡄⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⢀⣠⡴⠖⢺⣯⢸⢸⠚⢸⠛⢻⣿⠸⣩⣇⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⢀⣠⠞⠋⣁⡀⠀⢸⡯⠜⢸⠀⢸⠁⢸⣝⠸⣺⡟⠳⣤⡀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⣴⠟⠁⠀⣸⡟⣿⡄⢸⢰⢸⢸⠀⢸⠀⢸⠘⡇⣿⡇⠀⠈⠻⣦⡀⠀⠀⠀
+⠀⠀⢀⡞⠁⠀⠀⠀⢿⡇⣿⡇⢸⢸⢘⢸⠀⢸⠀⣾⢧⢡⢽⠇⠀⠀⠀⠈⢳⡄⠀⠀
+⠀⢠⡟⠀⠀⠀⠀⠀⢸⢷⡿⡇⣼⢸⢸⢸⠀⢿⣾⡟⡘⡴⣾⠀⠀⠀⠀⠀⠀⢻⡄⠀
+⠀⡞⠀⠀⠀⠀⠀⠀⢸⣟⡆⡇⣿⢨⢸⠀⢠⡿⠊⣔⢦⣑⡿⠀⠀⠀⠀⠀⠀⠀⢻⠀
+⢸⠇⠀⠀⠀⠀⠀⠀⢸⡾⢹⣧⣿⢸⢸⠰⠸⣄⣫⣊⣣⠿⠁⠀⠀⠀⠀⠀⠀⠀⠈⡇
+⢸⠀⠀⠀⠀⠀⠀⠀⢸⡇⡜⢻⣿⢘⠸⠀⠀⣿⠍⠉⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣧
+⢸⠀⠀⠀⠀⠀⠀⠀⢸⣤⢣⠣⣿⢸⠘⠀⠀⣿⡄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡟
+⢸⡄⠀⠀⠀⠀⠀⠀⠀⢷⣧⡳⣿⠸⢰⠐⢀⢸⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⡇
+⠀⣧⠀⠀⠀⠀⠀⠀⠀⠀⠙⠿⣿⢴⢸⢠⠀⢸⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣼⠁
+⠀⠘⣧⠀⠀⠀⠀⠀⠀⠀⠀⠀⣧⢘⠸⣈⠁⢸⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣸⠇⠀
+⠀⠀⠘⢧⡀⠀⠀⠀⠀⠀⠀⠀⣧⢈⢈⢈⠀⢸⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⣼⠃⠀⠀
+⠀⠀⠀⠈⠳⣄⠀⠀⠀⠀⠀⢠⣿⡘⠈⡸⠀⢸⣧⠀⠀⠀⠀⠀⠀⠀⣠⠞⠁⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠠⣤⡶⠐⠿⠟⠛⠂⠗⠳⠘⠟⠂⠾⠖⠲⠖⠒⠀⠀⠀⠀⠀⠀⠀
       </pre>
       <div align="center">
         <i>"YOUR_TAGLINE_AQUI"</i>
@@ -38,8 +49,7 @@
     </td>
     <td valign="top" width="60%">
       <!-- AQUÍ VAN TUS DATOS (Estilo Neofetch) -->
-      <p><code><b>cowboy@saloon</b></code></p>
-      <p>------------------</p>
+      <p><code><b>cowboy@saloon</b></code> -------------------</p>
       <p><b>🤠 Name:</b> YOUR_NAME</p>
       <p><b>📍 Location:</b> YOUR_CITY, YOUR_COUNTRY</p>
       <p><b>💼 Job:</b> YOUR_JOB (e.g., Full Stack Developer)</p>
@@ -49,6 +59,9 @@
       <p><b>🎮 Hobbies:</b> Coding, Gaming, Reading, Music</p>
       <p><b>📫 Contact:</b> YOUR_EMAIL</p>
       <p><b>🌐 Website:</b> YOUR_WEBSITE</p>
+      <p>----------------------------------------</p>
+      <p><b>🐎 Status:</b> <span style="color: #39d353;">Running (stable)</span></p>
+      <p><b>⏳ Uptime:</b> X years, Y months</p>
     </td>
   </tr>
 </table>
@@ -95,4 +108,4 @@
 <!-- BANNER INFERIOR -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:DD2476,100:FF512F&height=120&section=footer"/>
-</div>
+</div>****
