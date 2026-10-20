@@ -1,5 +1,5 @@
 ## Hi there 👋
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=220&section=header&text=YOUR_NAME&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=YOUR_TAGLINE&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=220&section=header&text=oter&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=YOUR_TAGLINE&descAlignY=55&descSize=18" width="100%"/>
 
 <a href="https://git.io/typing-svg">
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=2575FC¢er=true&vCenter=true&width=650&lines=Typing+Line+1;Typing+Line+2;Typing+Line+3;Typing+Line+4" alt="Typing SVG"/>
