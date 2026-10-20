@@ -1,47 +1,30 @@
-<!-- SECCIÓN TIPO NEOFETCH / TERMINAL VAQUERA -->
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Courier+New&weight=700&size=24&pause=1000&color=D4A373&center=true&vCenter=true&width=600&lines=%3E_%20Booting%20up%20the%20saloon...;%3E_%20Saddling%20the%20horses...;%3E_%20Compiling%20YOUR_LANGUAGE...;%3E_%20Ready%20for%20a%20new%20adventure." alt="Typing SVG" />
-</div>
+<!-- BANNER SUPERIOR CON ARTES ASIMÉTRICOS (SIN TABLAS) -->
+<div align="center" style="position: relative; width: 100%; max-width: 800px; margin: 0 auto;">
+  
+  <!-- Arte Principal (Izquierda) -->
+  <div align="left">
+    <pre style="font-family: monospace; font-size: 8px; line-height: 1; color: #D4A373; margin: 0; display: inline-block;">
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢠⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⣀⡠⠎⢄⣀⣀⡀⠀⠀⠀⢀⠀⣀⢀⡀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⣶⣯⣠⢤⠔⣰⢋⣛⠵⠭⠴⠵⢮⣭⡖⢒⣄⡀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣠⠴⢫⣟⣭⣒⡢⠤⡀⠀⡀⡤⡲⢫⠯⠽⠭⢜⣒⣢⣤⠞⣽⠥⠃⠊⠉⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠒⢞⣑⣄⠀
+⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡾⡥⠋⠁⠀⠀⠀⣁⢿⢟⣼⡞⠋⠉⠀⠀⡠⣴⢫⣷⣌⠏⠉⢸⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠑⢒⠻
+⠼⢄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡀⠀⠀⠀⠀⠀⠀⠀⠸⠉⡇⠀⣀⡠⢤⢉⣧⠼⠉⠿⠹⣀⡀⠼⢹⣠⠇⠉⢸⣇⡇⠀⠸⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢹
+⠁⠯⢡⠦⢤⡀⣀⡀⠀⠀⠀⠀⡇⠀⣀⢀⣀⡀⣠⠤⣴⣗⢻⡝⠴⠓⠋⠉⠀⢀⣀⠤⡗⣹⣵⣇⠉⠀⠀⢠⣾⡸⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠉⠑⠒⠫⠴⠯⠽⣩⢟⡧⠯⠴⠥⠚⠐⠓⠊⠉⠁⠣⢭⠂⣢⠐⡖⣩⠣⠞⠒⠉⠀⠑⠠⣔⣒⡞⡽⠘⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⢀⣀⣀⠰⠣⣀⣀⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠉⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⢱⡾⠉⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠃⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+    </pre>
+  </div>
 
-<br/>
-
-<!-- DISEÑO DE DOS COLUMNAS (CACTUS + BOTAS A LA DERECHA) -->
-<table align="center" border="1" cellpadding="10" cellspacing="0" style="border-collapse: collapse; border-color: #30363d; width: 100%; max-width: 800px;">
-  <tr>
-    <!-- COLUMNA IZQUIERDA: CACTUS Y BOTAS -->
-    <td valign="top" width="45%" style="background-color: #0d1117;">
-      
-      <div style="display: flex; justify-content: space-between; align-items: flex-end;">
-        <!-- Cactus -->
-        <pre style="font-family: monospace; font-size: 8px; line-height: 1; color: #D4A373; margin: 0; text-align: left;">
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠠⠴⢶⣾⣷⣦⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣻⣿⣿⣷⣦⣄⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢿⣿⣿⣿⣿⣿⣿⣷⣦⣄⡀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠻⣿⣿⣿⣿⣿⣿⣿⣿⣿⣖⠤⡀⠀⠀
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣽⣿⠋⠉⠉⠉⠉⠉⠉⠉⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣾⡝⠏⠟⣇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢰⡇⢿⢸⢸⢹⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⡇⢺⢸⢸⢸⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⣿⢘⠘⠈⢺⠀⠀⣤⣶⣦⡄⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⠀⠀⢀⣠⡴⠖⢺⣯⢸⢸⠚⢸⠛⢻⣿⠸⣩⣇⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⢀⣠⠞⠋⣁⡀⠀⢸⡯⠜⢸⠀⢸⠁⢸⣝⠸⣺⡟⠳⣤⡀⠀⠀
-⠀⠀⠀⠀⣴⠟⠁⠀⣸⡟⣿⡄⢸⢰⢸⢸⠀⢸⠀⢸⠘⡇⣿⡇⠀⠈⠻⣦⡀
-⠀⠀⢀⡞⠁⠀⠀⠀⢿⡇⣿⡇⢸⢸⢘⢸⠀⢸⠀⣾⢧⢡⢽⠇⠀⠀⠀⠈⢳⡄
-⠀⢠⡟⠀⠀⠀⠀⠀⢸⢷⡿⡇⣼⢸⢸⢸⠀⢿⣾⡟⡘⡴⣾⠀⠀⠀⠀⠀⠀⢻⡄
-⠀⡞⠀⠀⠀⠀⠀⠀⢸⣟⡆⡇⣿⢨⢸⠀⢠⡿⠊⣔⢦⣑⡿⠀⠀⠀⠀⠀⠀⠀⢻
-⢸⠇⠀⠀⠀⠀⠀⠀⢸⡾⢹⣧⣿⢸⢸⠰⠸⣄⣫⣊⣣⠿⠁⠀⠀⠀⠀⠀⠀⠀⠈⡇
-⢸⠀⠀⠀⠀⠀⠀⠀⢸⡇⡜⢻⣿⢘⠸⠀⠀⣿⠍⠉⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣧
-⢸⠀⠀⠀⠀⠀⠀⠀⢸⣤⢣⠣⣿⢸⠘⠀⠀⣿⡄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡟
-⢸⡄⠀⠀⠀⠀⠀⠀⠀⢷⣧⡳⣿⠸⢰⠐⢀⢸⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⡇
-⠀⣧⠀⠀⠀⠀⠀⠀⠀⠀⠙⠿⣿⢴⢸⢠⠀⢸⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣼⠁
-⠀⠘⣧⠀⠀⠀⠀⠀⠀⠀⠀⠀⣧⢘⠸⣈⠁⢸⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣸⠇⠀
-⠀⠀⠘⢧⡀⠀⠀⠀⠀⠀⠀⠀⣧⢈⢈⢈⠀⢸⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⣼⠃⠀⠀
-⠀⠀⠀⠈⠳⣄⠀⠀⠀⠀⠀⢠⣿⡘⠈⡸⠀⢸⣧⠀⠀⠀⠀⠀⠀⠀⣠⠞⠁⠀⠀
-⠀⠀⠀⠀⠀⠀⠀⠠⣤⡶⠐⠿⠟⠛⠂⠗⠳⠘⠟⠂⠾⠖⠲⠖⠒⠀⠀⠀⠀⠀⠀
-        </pre>
-
-        <!-- Botas (A la derecha del cactus) -->
-        <pre style="font-family: monospace; font-size: 4px; line-height: 1; color: #D4A373; margin: 0; text-align: right; margin-bottom: 10px;">
+  <!-- Botas (Esquina Derecha) - Flotando a la derecha y más abajo -->
+  <div align="right" style="margin-top: -50px;">
+    <pre style="font-family: monospace; font-size: 5px; line-height: 1; color: #D4A373; margin: 0; display: inline-block;">
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣴⡾⠛⠛⢛⣷⣶⣶⣶⣶⣤⣤⣀⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣼⣿⠁⠀⠀⢻⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣦⣄⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢰⣿⣿⡆⠀⠀⠀⢻⣿⣿⣿⣿⠻⣿⣿⠿⣿⣿⣿⣿⣿⣷⣤⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
@@ -69,16 +52,61 @@
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠹⣦⠀⠀⠈⣿⣿⣶⣄⡀⠀⠀⠀⠀⠀⠀⠀⠀⠉⠛⠻⠿⣿⣿⣿⣿⣿⣿⣿⣧⣀⣠⣤⣴⣿⡿⠛
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠘⠷⣶⣦⣿⡇⠙⠿⣿⣦⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣀⣩⣽⣿⣿⠿⠷⠟⠛⠉⠁⠀⠀
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠉⠛⠀⠀⠈⠙⠻⠿⣷⣶⣶⣄⣀⣀⣒⣒⣒⣉⣭⡵⠞⠛⠉⠀⠀⠀⠀⠀⠀⠀⠀⠀
-        </pre>
-      </div>
+    </pre>
+  </div>
+  
+  <hr style="border: 1px solid #D4A373; width: 80%; margin: 15px auto;">
+  
+  <h2>WANTED: YOUR_NAME</h2>
+  <p><i>The Fastest Coder in the West</i></p>
+</div>
 
-      <div align="center" style="margin-top: 15px;">
+<br/>
+
+<!-- SECCIÓN TIPO NEOFETCH / TERMINAL VAQUERA -->
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com/?font=Courier+New&weight=700&size=24&pause=1000&color=D4A373&center=true&vCenter=true&width=600&lines=%3E_%20Booting%20up%20the%20saloon...;%3E_%20Saddling%20the%20horses...;%3E_%20Compiling%20YOUR_LANGUAGE...;%3E_%20Ready%20for%20a%20new%20adventure." alt="Typing SVG" />
+</div>
+
+<br/>
+
+<!-- DISEÑO DE DOS COLUMNAS (CACTUS ASCII + DATOS) -->
+<table align="center" border="0" cellpadding="0" cellspacing="0">
+  <tr>
+    <td valign="top" width="40%">
+      <!-- CACTUS EN ASCII -->
+      <pre style="font-family: monospace; font-size: 10px; line-height: 1.1; color: #D4A373;">
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠠⠴⢶⣾⣷⣦⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣻⣿⣿⣷⣦⣄⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢿⣿⣿⣿⣿⣿⣿⣷⣦⣄⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠻⣿⣿⣿⣿⣿⣿⣿⣿⣿⣖⠤⡀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣽⣿⠋⠉⠉⠉⠉⠉⠉⠉⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣾⡝⠏⠟⣇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢰⡇⢿⢸⢸⢹⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⡇⢺⢸⢸⢸⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⣿⢘⠘⠈⢺⠀⠀⣤⣶⣦⡄⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⢀⣠⡴⠖⢺⣯⢸⢸⠚⢸⠛⢻⣿⠸⣩⣇⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⢀⣠⠞⠋⣁⡀⠀⢸⡯⠜⢸⠀⢸⠁⢸⣝⠸⣺⡟⠳⣤⡀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⣴⠟⠁⠀⣸⡟⣿⡄⢸⢰⢸⢸⠀⢸⠀⢸⠘⡇⣿⡇⠀⠈⠻⣦⡀⠀⠀⠀
+⠀⠀⢀⡞⠁⠀⠀⠀⢿⡇⣿⡇⢸⢸⢘⢸⠀⢸⠀⣾⢧⢡⢽⠇⠀⠀⠀⠈⢳⡄⠀⠀
+⠀⢠⡟⠀⠀⠀⠀⠀⢸⢷⡿⡇⣼⢸⢸⢸⠀⢿⣾⡟⡘⡴⣾⠀⠀⠀⠀⠀⠀⢻⡄⠀
+⠀⡞⠀⠀⠀⠀⠀⠀⢸⣟⡆⡇⣿⢨⢸⠀⢠⡿⠊⣔⢦⣑⡿⠀⠀⠀⠀⠀⠀⠀⢻⠀
+⢸⠇⠀⠀⠀⠀⠀⠀⢸⡾⢹⣧⣿⢸⢸⠰⠸⣄⣫⣊⣣⠿⠁⠀⠀⠀⠀⠀⠀⠀⠈⡇
+⢸⠀⠀⠀⠀⠀⠀⠀⢸⡇⡜⢻⣿⢘⠸⠀⠀⣿⠍⠉⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣧
+⢸⠀⠀⠀⠀⠀⠀⠀⢸⣤⢣⠣⣿⢸⠘⠀⠀⣿⡄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡟
+⢸⡄⠀⠀⠀⠀⠀⠀⠀⢷⣧⡳⣿⠸⢰⠐⢀⢸⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⡇
+⠀⣧⠀⠀⠀⠀⠀⠀⠀⠀⠙⠿⣿⢴⢸⢠⠀⢸⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣼⠁
+⠀⠘⣧⠀⠀⠀⠀⠀⠀⠀⠀⠀⣧⢘⠸⣈⠁⢸⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣸⠇⠀
+⠀⠀⠘⢧⡀⠀⠀⠀⠀⠀⠀⠀⣧⢈⢈⢈⠀⢸⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⣼⠃⠀⠀
+⠀⠀⠀⠈⠳⣄⠀⠀⠀⠀⠀⢠⣿⡘⠈⡸⠀⢸⣧⠀⠀⠀⠀⠀⠀⠀⣠⠞⠁⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠠⣤⡶⠐⠿⠟⠛⠂⠗⠳⠘⠟⠂⠾⠖⠲⠖⠒⠀⠀⠀⠀⠀⠀⠀
+      </pre>
+      <div align="center">
         <i>"YOUR_TAGLINE_AQUI"</i>
       </div>
     </td>
-
-    <!-- COLUMNA DERECHA: DATOS (Neofetch) -->
-    <td valign="top" width="55%" style="background-color: #0d1117; border-left: 1px solid #30363d;">
+    <td valign="top" width="60%">
+      <!-- AQUÍ VAN TUS DATOS (Estilo Neofetch) -->
       <p><code><b>cowboy@saloon</b></code> -------------------</p>
       <p><b>🤠 Name:</b> YOUR_NAME</p>
       <p><b>📍 Location:</b> YOUR_CITY, YOUR_COUNTRY</p>
