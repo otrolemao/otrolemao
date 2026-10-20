@@ -42,7 +42,7 @@
   <tr>
     <td valign="top" width="40%" align="center">
       <!-- GIF DE BULL RIDING -->
-      <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMml3bjF6bW53Zm04bDNrNXU1aTV0cWpramZ5aDFndGZ0eW14N2V6diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPnAiaMCws8nOsE/giphy.gif" width="100%" style="border-radius: 10px;" alt="Bull Riding GIF"/>
+      <img src="https://tenor.com/search/bull-riding-gifs" width="100%" style="border-radius: 10px;" alt="Bull Riding GIF"/>
       <br/><br/>
       <div align="center">
         <i>"YOUR_TAGLINE_AQUI"</i>
