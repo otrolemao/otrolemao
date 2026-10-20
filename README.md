@@ -40,6 +40,7 @@
   <br/>
 
   <!-- TARJETAS DE SKILLS EN TABLA -->
+ <!-- TARJETAS DE SKILLS EN TABLA -->
   <table align="center" border="0" cellpadding="10" cellspacing="0">
     <tr>
       <td align="center" valign="top">
@@ -59,6 +60,7 @@
       <td align="center" valign="top">
         <kbd><b>Tools & Databases</b></kbd><br/><br/>
         <img width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git"/>
+        <img width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" alt="NPM"/>
         <img width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code"/>
         <img width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL"/>
         <img width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB"/>
