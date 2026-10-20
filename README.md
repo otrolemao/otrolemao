@@ -1,14 +1,6 @@
-<!-- BANNER SUPERIOR (Jinete) -->
+<!-- BANNER SUPERIOR (Arte ASCII del Vaquero) -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Courier+New&weight=700&size=24&pause=1000&color=D4A373&center=true&vCenter=true&width=600&lines=%3E_%20WANTED:%20YOUR_NAME;%3E_%20The%20Fastest%20Coder%20in%20the%20West;%3E_%20Booting%20up%20the%20saloon..." alt="Typing SVG" />
-</div>
-
-<br/>
-
-<!-- BANNER DEL JINETE (Como Imagen) -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="0" height="0" alt="" /> <!-- Truco para que cargue rápido -->
-  <pre style="font-family: monospace; font-size: 8px; line-height: 1; color: #D4A373; margin: 0; text-align: center; background-color: #0d1117; padding: 20px; border-radius: 10px;">
+  <pre style="font-family: monospace; font-size: 10px; line-height: 1.1; color: #D4A373; background-color: #1a1a1a; padding: 20px; border-radius: 10px;">
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢠⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
@@ -25,6 +17,9 @@
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠃⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
   </pre>
+  <br/>
+  <h2>WANTED: YOUR_NAME</h2>
+  <p><i>The Fastest Coder in the West</i></p>
 </div>
 
 <br/>
@@ -36,44 +31,43 @@
 
 <br/>
 
-<!-- FILA DE 3 COLUMNAS: CACTUS | DATOS | BOTAS (Todo como imágenes internas) -->
-<table align="center" border="1" cellpadding="10" cellspacing="0" style="border-collapse: collapse; border-color: #30363d; width: 100%; max-width: 1000px; background-color: #0d1117;">
+<!-- DISEÑO DE DOS COLUMNAS (CACTUS ASCII + DATOS) -->
+<table align="center" border="0" cellpadding="0" cellspacing="0">
   <tr>
-    <!-- COLUMNA 1: CACTUS -->
-    <td valign="middle" width="25%" align="center" style="border-right: 1px solid #30363d;">
-      <pre style="font-family: monospace; font-size: 7px; line-height: 1; color: #D4A373; margin: 0; text-align: left;">
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠠⠴⢶⣾⣷⣦⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣻⣿⣿⣷⣦⣄⡀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢿⣿⣿⣿⣿⣿⣿⣷⣦⣄⡀⠀⠀
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠻⣿⣿⣿⣿⣿⣿⣿⣿⣿⣖
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣽⣿⠋⠉⠉⠉⠉⠉⠉⠉
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣾⡝⠏⠟⣇⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢰⡇⢿⢸⢸⢹⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⡇⢺⢸⢸⢸⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⣿⢘⠘⠈⢺⠀⠀⣤⣶⣦⡄⠀
-⠀⠀⠀⠀⠀⠀⠀⠀⢀⣠⡴⠖⢺⣯⢸⢸⠚⢸⠛⢻⣿⠸⣩⣇⠀
-⠀⠀⠀⠀⠀⢀⣠⠞⠋⣁⡀⠀⢸⡯⠜⢸⠀⢸⠁⢸⣝⠸⣺⡟⠳
-⠀⠀⠀⠀⣴⠟⠁⠀⣸⡟⣿⡄⢸⢰⢸⢸⠀⢸⠀⢸⠘⡇⣿⡇⠀
-⠀⠀⢀⡞⠁⠀⠀⠀⢿⡇⣿⡇⢸⢸⢘⢸⠀⢸⠀⣾⢧⢡⢽⠇⠀
-⠀⢠⡟⠀⠀⠀⠀⠀⢸⢷⡿⡇⣼⢸⢸⢸⠀⢿⣾⡟⡘⡴⣾⠀⠀
-⠀⡞⠀⠀⠀⠀⠀⠀⢸⣟⡆⡇⣿⢨⢸⠀⢠⡿⠊⣔⢦⣑⡿⠀⠀
-⢸⠇⠀⠀⠀⠀⠀⠀⢸⡾⢹⣧⣿⢸⢸⠰⠸⣄⣫⣊⣣⠿⠁⠀⠀
-⢸⠀⠀⠀⠀⠀⠀⠀⢸⡇⡜⢻⣿⢘⠸⠀⠀⣿⠍⠉⠁⠀⠀⠀⠀
-⢸⠀⠀⠀⠀⠀⠀⠀⢸⣤⢣⠣⣿⢸⠘⠀⠀⣿⡄⠀⠀⠀⠀⠀⠀
-⢸⡄⠀⠀⠀⠀⠀⠀⠀⢷⣧⡳⣿⠸⢰⠐⢀⢸⡇⠀⠀⠀⠀⠀⠀
-⠀⣧⠀⠀⠀⠀⠀⠀⠀⠀⠙⠿⣿⢴⢸⢠⠀⢸⡇⠀⠀⠀⠀⠀⠀
-⠀⠘⣧⠀⠀⠀⠀⠀⠀⠀⠀⠀⣧⢘⠸⣈⠁⢸⡇⠀⠀⠀⠀⠀⠀
-⠀⠀⠘⢧⡀⠀⠀⠀⠀⠀⠀⠀⣧⢈⢈⢈⠀⢸⡇⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠈⠳⣄⠀⠀⠀⠀⠀⢠⣿⡘⠈⡸⠀⢸⣧⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⠀⠠⣤⡶⠐⠿⠟⠛⠂⠗⠳⠘⠟⠂⠾⠖⠲⠖⠒
+    <td valign="top" width="40%">
+      <!-- CACTUS EN ASCII -->
+      <pre style="font-family: monospace; font-size: 10px; line-height: 1.1; color: #D4A373;">
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠠⠴⢶⣾⣷⣦⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣻⣿⣿⣷⣦⣄⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢿⣿⣿⣿⣿⣿⣿⣷⣦⣄⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠻⣿⣿⣿⣿⣿⣿⣿⣿⣿⣖⠤⡀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣽⣿⠋⠉⠉⠉⠉⠉⠉⠉⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣾⡝⠏⠟⣇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢰⡇⢿⢸⢸⢹⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⡇⢺⢸⢸⢸⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⣿⢘⠘⠈⢺⠀⠀⣤⣶⣦⡄⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⢀⣠⡴⠖⢺⣯⢸⢸⠚⢸⠛⢻⣿⠸⣩⣇⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⢀⣠⠞⠋⣁⡀⠀⢸⡯⠜⢸⠀⢸⠁⢸⣝⠸⣺⡟⠳⣤⡀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⣴⠟⠁⠀⣸⡟⣿⡄⢸⢰⢸⢸⠀⢸⠀⢸⠘⡇⣿⡇⠀⠈⠻⣦⡀⠀⠀⠀
+⠀⠀⢀⡞⠁⠀⠀⠀⢿⡇⣿⡇⢸⢸⢘⢸⠀⢸⠀⣾⢧⢡⢽⠇⠀⠀⠀⠈⢳⡄⠀⠀
+⠀⢠⡟⠀⠀⠀⠀⠀⢸⢷⡿⡇⣼⢸⢸⢸⠀⢿⣾⡟⡘⡴⣾⠀⠀⠀⠀⠀⠀⢻⡄⠀
+⠀⡞⠀⠀⠀⠀⠀⠀⢸⣟⡆⡇⣿⢨⢸⠀⢠⡿⠊⣔⢦⣑⡿⠀⠀⠀⠀⠀⠀⠀⢻⠀
+⢸⠇⠀⠀⠀⠀⠀⠀⢸⡾⢹⣧⣿⢸⢸⠰⠸⣄⣫⣊⣣⠿⠁⠀⠀⠀⠀⠀⠀⠀⠈⡇
+⢸⠀⠀⠀⠀⠀⠀⠀⢸⡇⡜⢻⣿⢘⠸⠀⠀⣿⠍⠉⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣧
+⢸⠀⠀⠀⠀⠀⠀⠀⢸⣤⢣⠣⣿⢸⠘⠀⠀⣿⡄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡟
+⢸⡄⠀⠀⠀⠀⠀⠀⠀⢷⣧⡳⣿⠸⢰⠐⢀⢸⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⡇
+⠀⣧⠀⠀⠀⠀⠀⠀⠀⠀⠙⠿⣿⢴⢸⢠⠀⢸⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣼⠁
+⠀⠘⣧⠀⠀⠀⠀⠀⠀⠀⠀⠀⣧⢘⠸⣈⠁⢸⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣸⠇⠀
+⠀⠀⠘⢧⡀⠀⠀⠀⠀⠀⠀⠀⣧⢈⢈⢈⠀⢸⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⣼⠃⠀⠀
+⠀⠀⠀⠈⠳⣄⠀⠀⠀⠀⠀⢠⣿⡘⠈⡸⠀⢸⣧⠀⠀⠀⠀⠀⠀⠀⣠⠞⠁⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠠⣤⡶⠐⠿⠟⠛⠂⠗⠳⠘⠟⠂⠾⠖⠲⠖⠒⠀⠀⠀⠀⠀⠀⠀
       </pre>
-      <div align="center" style="margin-top: 10px;">
+      <div align="center">
         <i>"YOUR_TAGLINE_AQUI"</i>
       </div>
     </td>
-
-    <!-- COLUMNA 2: DATOS -->
-    <td valign="top" width="45%" style="text-align: left; padding-left: 20px;">
+    <td valign="top" width="60%">
+      <!-- AQUÍ VAN TUS DATOS (Estilo Neofetch) -->
       <p><code><b>cowboy@saloon</b></code> -------------------</p>
       <p><b>🤠 Name:</b> YOUR_NAME</p>
       <p><b>📍 Location:</b> YOUR_CITY, YOUR_COUNTRY</p>
@@ -87,38 +81,6 @@
       <p>----------------------------------------</p>
       <p><b>🐎 Status:</b> <span style="color: #39d353;">Running (stable)</span></p>
       <p><b>⏳ Uptime:</b> X years, Y months</p>
-    </td>
-
-    <!-- COLUMNA 3: BOTAS -->
-    <td valign="bottom" width="30%" align="right" style="border-left: 1px solid #30363d;">
-      <pre style="font-family: monospace; font-size: 5px; line-height: 1; color: #D4A373; margin: 0; text-align: right; padding-bottom: 10px;">
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣴⡾⠛⠛⢛⣷⣶⣶⣶⣶⣤⣤⣀⡀⠀⠀
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣼⣿⠁⠀⠀⢻⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢰⣿⣿⡆⠀⠀⠀⢻⣿⣿⣿⣿⠻⣿⣿⠿⣿⣿
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢠⣿⣿⣿⡷⠀⠀⠀⣸⣿⣿⣿⠏⠀⢹⣿⠀⣷⣦
-⠀⢀⣀⣀⣀⣀⣀⣀⠀⠀⠀⠀⣾⣿⣿⣿⠃⠀⠀⢠⣿⣿⣿⠁⠀⠀⠼⠁⠀⢹⣿
-⣾⣿⣿⣿⣿⣿⣻⡿⠿⣿⣷⣾⣿⣿⣿⡿⠀⠀⠀⢺⣿⣿⣿⡀⠀⠀⠀⠀⠀⣸⣿
-⠈⠻⣿⣿⣿⣿⣿⣿⣷⣄⡀⠹⣿⣿⡿⠃⠀⠀⠀⠈⠻⣿⣿⣿⣦⡀⠀⠀⠀⣿⣿
-⠀⠀⠀⠙⠻⣿⣿⣿⣿⠿⠿⣷⣤⡀⠀⠀⠀⠀⠀⠀⠀⠈⠻⣿⣿⣿⣦⠀⢸⣿⣿
-⠀⠀⠀⠀⠀⠀⠙⠻⣿⣦⣄⠀⠉⠛⢷⣄⡠⢤⣀⠀⠀⠀⠀⠈⢿⣿⣿⣷⠘⣿⣿
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠉⠛⣿⣶⣤⣀⠈⠛⢦⡀⠙⠲⢤⣀⣀⠈⣿⣿⣿⣿⣿⣿
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⣧⡽⠛⠿⣦⣤⡈⠳⢤⣄⣀⠉⠛⠻⠿⣿⣿⣿⣿
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⣯⣤⠄⠀⡏⠉⢿⣿⣶⣤⣙⠻⣶⣶⣤⣄⣀⣉⠉
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⣿⣤⠤⠀⡇⠠⢤⣝⣿⣿⣿⣿⣷⣿⣿⣿⣿⣿⣿
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⡟⠁⠀⢠⡇⠀⠀⠈⢻⣿⣿⣿⣿⠏⡽⣿⣿⣿⣿
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣿⠦⠀⢸⠁⠀⠰⣚⣿⣿⣿⣿⣿⠤⢾⣿⣿⣿⣿
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣿⣆⠀⢸⠀⠀⢚⣿⣿⣿⣿⡿⣿⡗⣫⣿⣿⡿⡿
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣿⣿⠀⢸⠀⠐⢉⣴⣿⣿⢿⠧⢛⣿⣿⠟⡿⠁⢁
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣿⣿⣆⣼⠀⢠⣿⡿⠋⠏⢈⣴⣿⣟⠁⠀⣠⣾⣿
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣿⣿⣿⣿⠀⠘⠋⠀⢀⣴⣿⣿⣿⣿⣤⣾⣿⣿⡇
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣿⣿⣿⣿⣇⣀⣠⣶⣿⣿⣿⠋⠻⣿⣿⣿⡿⠋⠀
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢰⣿⣿⣿⣿⠿⢿⣿⣿⡿⠟⠃⠀⠀⠙⣿⣧⡀⠀⠀
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⣿⣿⣿⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠘⣿⣿⣦⡀
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠸⣿⣿⣿⣷⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⣿⣿⣿
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢻⡟⠛⠿⢦⣀⡀⠀⠀⠀⠀⠀⠀⠀⠀⠘⠁⠶⣿
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠹⣦⠀⠀⠈⣿⣿⣶⣄⡀⠀⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠘⠷⣶⣦⣿⡇⠙⠿⣿⣦⣀⠀⠀⠀⠀⠀⠀
-      </pre>
     </td>
   </tr>
 </table>
