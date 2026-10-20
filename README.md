@@ -34,44 +34,46 @@
 ·██ ▐███▪▐█▪██▌  ▐█ ▀. █▌▄▌▪██ ██•  ██•  ▐█ ▀. 
 ▐█ ▌▐▌▐█·▐█▌▐█▪  ▄▀▀▀█▄▐▀▀▄·▐█·██ ▪ ██ ▪ ▄▀▀▀█▄
 ██ ██▌▐█▌ ▐█▀·.  ▐█▄▪▐█▐█.█▌▐█▌▐█▌ ▄▐█▌ ▄▐█▄▪▐█
-▀▀  █▪▀▀▀  ▀ •    ▀▀▀▀ ·▀  ▀▀▀▀.▀▀▀ .▀▀▀  ▀▀▀▀   
-    
-<p align="center">
-  <kbd>
-    <kbd>Languages</kbd>
-    <br><br>
-    <img width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python"/>
-    <img width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript"/>
-    <img width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java"/>
-    <img width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5"/>
-  </kbd>
+▀▀  █▪▀▀▀  ▀ •    ▀▀▀▀ ·▀  ▀▀▀▀.▀▀▀ .▀▀▀  ▀▀▀▀  
+  </pre>
 
-  <kbd>
-    <kbd>Frontend & Backend</kbd>
-    <br><br>
-    <img width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React"/>
-    <img width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js"/>
-    <img width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express"/>
-    <img width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" alt="Django"/>
-  </kbd>
+  <br/>
 
-  <kbd>
-    <kbd>Tools & Databases</kbd>
-    <br><br>
-    <img width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git"/>
-    <img width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code"/>
-    <img width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL"/>
-    <img width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB"/>
-    <img width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" alt="Oracle"/>
-    <img width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux"/>
-  </kbd>
-</p>
+  <!-- TARJETAS DE SKILLS EN TABLA -->
+  <table align="center" border="0" cellpadding="10" cellspacing="0">
+    <tr>
+      <td align="center" valign="top">
+        <kbd><b>Languages</b></kbd><br/><br/>
+        <img width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python"/>
+        <img width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript"/>
+        <img width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java"/>
+        <img width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5"/>
+      </td>
+      <td align="center" valign="top">
+        <kbd><b>Frontend & Backend</b></kbd><br/><br/>
+        <img width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React"/>
+        <img width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js"/>
+        <img width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express"/>
+        <img width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" alt="Django"/>
+      </td>
+      <td align="center" valign="top">
+        <kbd><b>Tools & Databases</b></kbd><br/><br/>
+        <img width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git"/>
+        <img width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code"/>
+        <img width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL"/>
+        <img width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB"/>
+        <img width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" alt="Oracle"/>
+        <img width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux"/>
+      </td>
+    </tr>
+  </table>
+</div>
 
 <br/>
 
 <!-- SECCIÓN TIPO NEOFETCH / TERMINAL VAQUERA -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Courier+New&weight=700&size=24&pause=1000&color=D4A373&center=true&vCenter=true&width=600&lines=%3E_%20Booting%20up%20the%20saloon...;%3E_%20Saddling%20the%20horses...;%3E_%20Compiling%20YOUR_LANGUAGE...;%3E_%20Ready%20for%20a%20new%20adventure." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Courier+New&weight=700&size=24&pause=1000&color=D4A373&center=true&vCenter=true&width=600&lines=%3E_%20Booting%20up%20the%20saloon...;%3E_%20Saddling%20the%20horses...;%3E_%20Compiling%20Python%20%26%20JavaScript...;%3E_%20Ready%20for%20a%20new%20adventure." alt="Typing SVG" />
 </div>
 
 <br/>
@@ -91,12 +93,12 @@
       <!-- AQUÍ VAN TUS DATOS (Estilo Neofetch) -->
       <p><code><b>cowboy@saloon</b></code> -------------------</p>
       <p><b>🤠 Name:</b> YOUR_NAME</p>
-      <p><b>📍 Location:</b> YOUR_CITY, YOUR_COUNTRY</p>
-      <p><b>💼 Job:</b> YOUR_JOB (e.g., Full Stack Developer)</p>
-      <p><b>🛠️ Weapons:</b> Python, JavaScript, React, Node.js</p>
-      <p><b>🌱 Learning:</b> Rust, Go, Cloud Architecture</p>
-      <p><b>🎯 Focus:</b> Building awesome open-source stuff</p>
-      <p><b>🎮 Hobbies:</b> Coding, Gaming, Reading, Music</p>
+      <p><b>📍 Location:</b> Chile</p>
+      <p><b>💼 Job:</b> Full Stack Developer</p>
+      <p><b>🛠️ Weapons:</b> Python, JavaScript, Java, Django, SQL</p>
+      <p><b>🌱 Learning:</b> Cloud Architecture, React Native</p>
+      <p><b>🎯 Focus:</b> Building awesome web applications</p>
+      <p><b>🎮 Hobbies:</b> Coding, Gaming, Music</p>
       <p><b>📫 Contact:</b> YOUR_EMAIL</p>
       <p><b>🌐 Website:</b> YOUR_WEBSITE</p>
       <p>----------------------------------------</p>
@@ -121,8 +123,12 @@
   
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django"/>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle"/>
   <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
