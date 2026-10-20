@@ -1,7 +1,7 @@
 <!-- BANNER SUPERIOR (Arte ASCII del Vaquero) -->
 <div align="center">
   <pre style="font-family: monospace; font-size: 10px; line-height: 1.1; color: #D4A373; background-color: #1a1a1a; padding: 20px; border-radius: 10px;">
-    ⠀⠀⠀⠠⠴⢶⣾⣷⣦⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠠⠴⢶⣾⣷⣦⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣻⣿⣿⣷⣦⣄⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀            
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢿⣿⣿⣿⣿⣿⣿⣷⣦⣄⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀            
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠻⣿⣿⣿⣿⣿⣿⣿⣿⣿⣖⠤⡀⠀⠀⠀⠀⠀            
