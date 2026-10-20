@@ -28,11 +28,14 @@
   <p><i></i></p>
 </div>
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+<div align="center">
+  <pre style="font-family: monospace; font-size: 10px; line-height: 1.1; color: #D4A373; background-color: #1a1a1a; padding: 20px; border-radius: 10px;">
 • ▌ ▄ ·.  ▄· ▄▌  .▄▄ · ▄ •▄ ▪  ▄▄▌  ▄▄▌  .▄▄ · 
 ·██ ▐███▪▐█▪██▌  ▐█ ▀. █▌▄▌▪██ ██•  ██•  ▐█ ▀. 
 ▐█ ▌▐▌▐█·▐█▌▐█▪  ▄▀▀▀█▄▐▀▀▄·▐█·██ ▪ ██ ▪ ▄▀▀▀█▄
 ██ ██▌▐█▌ ▐█▀·.  ▐█▄▪▐█▐█.█▌▐█▌▐█▌ ▄▐█▌ ▄▐█▄▪▐█
 ▀▀  █▪▀▀▀  ▀ •    ▀▀▀▀ ·▀  ▀▀▀▀.▀▀▀ .▀▀▀  ▀▀▀▀ 
+    
        ( (          (            
  ( (   )\)\      (  )\  (( (  (  
  )\)\ ((_)_)     )\((_) )\\)\ )\ 
