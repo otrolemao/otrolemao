@@ -85,7 +85,7 @@
   <tr>
     <td valign="top" width="40%" align="center">
       <!-- GIF DEL MONO (reemplaza este ID por el que quieras de Giphy) -->
-      <img src="https://tenor.com/search/haha-monkey-gifs" width="100%" style="border-radius: 10px;" alt="Monkey GIF"/>
+      <img src="https://media1.tenor.com/m/rW_V1PGW098AAAAC/monkey.gif" width="100%" style="border-radius: 10px;" alt="Monkey GIF"/>
       <br/><br/>
       <div align="center">
         <i>"YOUR_TAGLINE_AQUI"</i>
