@@ -85,7 +85,7 @@
   <tr>
     <td valign="top" width="40%" align="center">
       <!-- GIF DE BULL RIDING -->
-      <img src="https://c.tenor.com/nk99deZJoiEAAAAd/tenor.gif" width="100%" style="border-radius: 10px;" alt="Bull Riding GIF"/>
+      <img src="https://tenor.com/search/haha-monkey-gifs" width="100%" style="border-radius: 10px;" alt="Bull Riding GIF"/>
       <br/><br/>
       <div align="center">
         <i>"YOUR_TAGLINE_AQUI"</i>
