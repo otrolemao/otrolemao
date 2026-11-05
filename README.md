@@ -88,27 +88,6 @@
       <img src="https://media1.tenor.com/m/rW_V1PGW098AAAAC/monkey.gif" width="100%" style="border-radius: 10px;" alt="Monkey GIF"/>
       <br/><br/>
       <div align="center">
-        <i>"YOUR_TAGLINE_AQUI"</i>
-      </div>
-    </td>
-    <td valign="top" width="60%">
-      <!-- AQUÍ VAN TUS DATOS (Estilo Neofetch) -->
-      <p><code><b>cowboy@saloon</b></code> -------------------</p>
-      <p><b>🤠 Name:</b> YOUR_NAME</p>
-      <p><b>📍 Location:</b> Chile</p>
-      <p><b>💼 Job:</b> Full Stack Developer</p>
-      <p><b>🛠️ Weapons:</b> Python, JavaScript, Java, Django, SQL</p>
-      <p><b>🌱 Learning:</b> Cloud Architecture, React Native</p>
-      <p><b>🎯 Focus:</b> Building awesome web applications</p>
-      <p><b>🎮 Hobbies:</b> Coding, Gaming, Music</p>
-      <p><b>📫 Contact:</b> YOUR_EMAIL</p>
-      <p><b>🌐 Website:</b> YOUR_WEBSITE</p>
-      <p>----------------------------------------</p>
-      <p><b>🐎 Status:</b> <span style="color: #39d353;">Running (stable)</span></p>
-      <p><b>⏳ Uptime:</b> X years, Y months</p>
-    </td>
-  </tr>
-</table>
 
 <br/>
 
